@@ -1,16 +1,20 @@
-### Hi there 👋
+# STIGGA INDIVIDUAL POS VALIDATOR IN COSMOS HUB ECOSYSTEM CHAINS  
 
-<!--
-**Alexmed911/Alexmed911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##### Active member of the cosmos ecosystem community and contributed to building the network infrastructure as a validator node . Our infrastructure is composed of dedicated servers with several security levels, alerts and backup servers. 100% uptime, the best monitoring tools, best hosting providers and own hardware.
 
-Here are some ideas to get you started:
+## Mainnets: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Gravity Bridge, Nomic, Ki Chain, Persistence, Crescent, Bitsong, Cyber, Rizon, Konstellation, AssetMantle, Nomic, Stride, Canto
+
+
+## Specs:
+
+#### AMD Ryzen 9 5950X 16 Cores (Zen3)
+
+#### 128 GB DDR4 ECC RAM 
+
+#### 2 x 3.84 TB NVMe SSD Datacenter Edition (Software-RAID 1) 
+
+#### 1 Gbit/s bandwidth 
+
+#### Alerts (Grafana + Prometeus)
