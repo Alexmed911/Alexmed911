@@ -4,7 +4,7 @@
 
 ## Mainnets: 
 
-#### Gravity Bridge, Nomic, Ki Chain, Persistence, Crescent, Bitsong, Cyber, Rizon, Konstellation, AssetMantle, Nomic, Stride, Canto
+#### Gravity Bridge, Nomic, Ki Chain, Persistence, Crescent, Bitsong, Boostrom, Rizon, Konstellation, Stride, Sifchain , Jackal
 
 
 ## Specs:
