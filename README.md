@@ -9,12 +9,10 @@
 
 ## Specs:
 
-#### AMD Ryzen 9 5950X 16 Cores (Zen3)
+#### AMD Ryzen 9 5950X 16 Cores
 
-#### 128 GB DDR4 ECC RAM 
+#### 128 GB 
 
-#### 2 x 3.84 TB NVMe SSD Datacenter Edition (Software-RAID 1) 
-
-#### 1 Gbit/s bandwidth 
+#### 1 Gbit/s 
 
 #### Alerts (Grafana + Prometeus)
