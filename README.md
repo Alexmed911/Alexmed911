@@ -1,6 +1,6 @@
 # 👽STIGGA👽 INDIVIDUAL POS VALIDATOR IN COSMOS HUB ECOSYSTEM CHAINS  
 
-![](https://komarev.com/ghpvc/?username=Alexmed911)
+![](https://komarev.com/ghpvc/?username=Alexmed911&color=green)
 
 #### Active member of the cosmos ecosystem community and contributed to building the network infrastructure as a validator node . Our infrastructure is composed of dedicated servers with several security levels, alerts and backup servers. 100% uptime, the best monitoring tools, best hosting providers and own hardware.
 
