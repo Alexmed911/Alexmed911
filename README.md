@@ -1,13 +1,13 @@
-# STIGGA INDIVIDUAL POS VALIDATOR IN COSMOS HUB ECOSYSTEM CHAINS  
+# 👽STIGGA👽 INDIVIDUAL POS VALIDATOR IN COSMOS HUB ECOSYSTEM CHAINS  
 
 #### Active member of the cosmos ecosystem community and contributed to building the network infrastructure as a validator node . Our infrastructure is composed of dedicated servers with several security levels, alerts and backup servers. 100% uptime, the best monitoring tools, best hosting providers and own hardware.
 
 ## Mainnets: 
 
-#### Gravity Bridge, Nomic, Ki Chain, Persistence, Crescent, Bitsong, Boostrom, Rizon, Konstellation, Stride, Sifchain , Jackal
+#### Gravity Bridge, Persistence, Boostrom, Jackal, Nomic, Ki Chain, Bitsong, Rizon, Konstellation, Stride, Sifchain, Crescent
 
 
-## Specs:
+## 🖥 Specs:
 
 #### AMD Ryzen 9 5950X 16 Cores
 
@@ -18,3 +18,7 @@
 #### Alerts (Grafana + Prometeus)
 
 #### https://stigga.org/
+
+
+# <a href="https://github.com/Alexmed911/Nodes-Setup-Manuals">👉 Nodes-Setup-Manuals 🧑‍💻</a>
+
