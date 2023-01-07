@@ -14,7 +14,7 @@
   <tr>
     <td align="center" width="200">
       <a href="https://github.com/Alexmed911/Nodes-Setup-Manuals/tree/main/Cyber">
-        <img src="https://stigga.org/gallery_gen/296367cbf28eebc0c19d1677aa388985.png" width="250" height="250" alt="JavaScript" />
+        <img src="https://stigga.org/gallery_gen/296367cbf28eebc0c19d1677aa388985.png" width="400" height="200" alt="JavaScript" />
       </a>
       <br>Cyber
     </td>
