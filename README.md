@@ -10,11 +10,11 @@
 
 # <a href="https://github.com/Alexmed911/Nodes-Setup-Manuals">👉 🖥 Nodes-Setup-Manuals 🧑‍💻</a>
  
-<table width='100%'>
+<table width='150%'>
   <tr>
     <td align="center" width="96">
       <a href="https://github.com/Alexmed911/Nodes-Setup-Manuals/tree/main/Cyber">
-        <img src="https://user-images.githubusercontent.com/79756157/205507528-262d9736-8442-4641-be99-da873335c727.jpg" width="45" height="45" alt="JavaScript" />
+        <img src="https://stigga.org/gallery_gen/296367cbf28eebc0c19d1677aa388985.png" width="45" height="45" alt="JavaScript" />
       </a>
       <br>Cyber
     </td>
