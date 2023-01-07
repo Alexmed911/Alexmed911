@@ -12,21 +12,21 @@
  
 <table width='100%'>
   <tr>
-    <td align="center" width="196">
+    <td align="center" width="200">
       <a href="https://github.com/Alexmed911/Nodes-Setup-Manuals/tree/main/Cyber">
         <img src="https://stigga.org/gallery_gen/296367cbf28eebc0c19d1677aa388985.png" width="400" height="100" alt="JavaScript" />
       </a>
       <br>Cyber
     </td>
-    <td align="center" width="196">
+    <td align="center" width="200">
       <a href="https://github.com/Alexmed911/Nodes-Setup-Manuals/tree/main/Persistence" >
         <img src="https://stigga.org/gallery_gen/2053b6db04c88c60d28f7004da1306d0.jpeg" width="400" height="100" alt="Figma" />
       </a>
       <br>Persistence
     </td>
-    <td align="center" width="96">
-      <a href="#debabin-stack" >
-        <img src="https://mobile.twitter.com/defund_finance/photo" width="45" height="45" alt="Figma" />
+    <td align="center" width="200">
+      <a href="https://github.com/Alexmed911/Nodes-Setup-Manuals/tree/main/Defund" >
+        <img src="https://avatars.githubusercontent.com/u/95717440?s=200&v=4" width="400" height="100" alt="Figma" />
       </a>
       <br>Defund
     </td>
