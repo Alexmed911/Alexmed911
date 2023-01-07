@@ -24,7 +24,7 @@
 
 # <a href="https://github.com/Alexmed911/Nodes-Setup-Manuals">👉 Nodes-Setup-Manuals 🧑‍💻</a>
 
-<h2 align="left" id="list-testnets"> 🌐 List of projects</h2>
+<h1 align="left" id="Nodes-Setup-Manuals"> 🌐 List of projects</h2>
 
  
 <table width='100%'>
