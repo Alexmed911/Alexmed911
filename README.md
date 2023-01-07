@@ -10,7 +10,7 @@
 
 # <a href="https://github.com/Alexmed911/Nodes-Setup-Manuals">👉 🖥 Nodes-Setup-Manuals 🧑‍💻</a>
  
-<table width='150%'>
+<table width='300%'>
   <tr>
     <td align="center" width="96">
       <a href="https://github.com/Alexmed911/Nodes-Setup-Manuals/tree/main/Cyber">
