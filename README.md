@@ -8,7 +8,7 @@
 
 ## <a href="https://www.mintscan.io/gravity-bridge/validators/gravityvaloper1t2ljwdvkuecrkxwftpftnh54j5wez5jg4n7yrv">Gravity Bridge</a>, <a href="https://www.mintscan.io/persistence/validators/persistencevaloper1zu9ppvwn84j4mzs7lmm40p6ta6y0xk8zsnspjm">Persistence</a>, <a href="https://cyb.ai/network/bostrom/hero/bostromvaloper12kpw3e9ypjal6upmju9smwgjhwefpt7vaxz99p">Boostrom</a>, <a href="https://ping.pub/jackal/staking/jklvaloper158nshw593764esewcykul0pj884g5naqu3726f">Jackal</a>, <a href="https://app.nomic.io/#/staking?tab=active-validators&validator=nomic1fe347faau8tlawyqm0yy6lclud2j9s96tgjdtc&modal=info">Nomic</a>, <a href="https://www.mintscan.io/ki-chain/validators/kivaloper17ky5whv24fgnjttrx2qsx0r59m3cz4dvfcqwss">Ki Chain</a>, <a href="https://sifchain.explorers.guru/validator/sifvaloper19ln6t3ry43zxa20gex37qwlccm7xwrk8s5yvrf">Sifchain</a>, <a href="https://www.mintscan.io/rizon/validators/rizonvaloper196gedsj7qcv23gll622euraxsvjnn5m7ly02k9">Rizon</a>, <a href="https://www.mintscan.io/konstellation/validators/darcvaloper1s04k3sfucxaxgr2xca0adqfxy36ulqhm7y4e5m">Konstellation</a>, <a href="https://ping.pub/canto/staking/cantovaloper1rug7udj8ddqjh6e0wcdx6kkhaxc87g0rm0c8ws">Canto</a> 
 
-#  <a href="https://github.com/Alexmed911/Nodes-Setup-Manuals" align="center >👉 🖥 Nodes-Setup-Manuals 🧑‍💻</a>
+ <h1 align="center"><a href="https://github.com/Alexmed911/Nodes-Setup-Manuals" >👉 🖥 Nodes-Setup-Manuals 🧑‍</a></h1>
  
 <table width='200%'>
   <tr>
