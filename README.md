@@ -12,9 +12,9 @@
  
 <table width='100%'>
   <tr>
-    <td align="center" width="596">
+    <td align="center" width="296">
       <a href="https://github.com/Alexmed911/Nodes-Setup-Manuals/tree/main/Cyber">
-        <img src="https://stigga.org/gallery_gen/296367cbf28eebc0c19d1677aa388985.png" width="450" height="225" alt="JavaScript" />
+        <img src="https://stigga.org/gallery_gen/296367cbf28eebc0c19d1677aa388985.png" width="350" height="225" alt="JavaScript" />
       </a>
       <br>Cyber
     </td>
