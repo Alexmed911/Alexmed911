@@ -41,15 +41,15 @@
         <img src="https://user-images.githubusercontent.com/79756157/205519020-36a7ea20-a9f9-49b2-821a-def2df8d36be.jpg" width="400" height="150" alt="Figma" />
       </a>
       <br>Nibiru
-    </td>  
+    </td>
+    </tr>
+ <tr>
     <td align="center" width="200">
       <a href="" >
         <img src="https://avatars.githubusercontent.com/u/112838174?s=200&v=4" width="400" height="150" alt="Figma" />
       </a>
       <br>Terp
     </td>
-   </tr>
- <tr>
      <td align="center" width="200">
       <a href="" >
         <img src="https://avatars.githubusercontent.com/u/93963159?s=200&v=4" width="400" height="150" alt="Figma" />
