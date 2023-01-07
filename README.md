@@ -42,9 +42,7 @@
       </a>
       <br>Nibiru
     </td>  
-    
-      
-     <td align="center" width="96">
+    <td align="center" width="96">
       <a href="#debabin-stack" >
         <img src="https://avatars.githubusercontent.com/u/112838174?s=200&v=4" width="45" height="45" alt="Figma" />
       </a>
@@ -57,8 +55,7 @@
       </a>
       <br>Uptick
     </td>
-   
-     <td align="center" width="96">
+    <td align="center" width="96">
       <a href="#debabin-stack" >
         <img src="https://raw.githubusercontent.com/itrocket-team/testnet_guides/main/logos/lava.jpg?s=200&v=4" width="45" height="45" alt="Figma" />
       </a>
