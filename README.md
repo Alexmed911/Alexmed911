@@ -26,7 +26,7 @@
     </td>
     <td align="center" width="200">
       <a href="https://github.com/Alexmed911/Nodes-Setup-Manuals/tree/main/Defund" >
-        <img src="https://avatars.githubusercontent.com/u/95717440?s=200&v=4" width="400" height="100" alt="Figma" />
+        <img src="https://avatars.githubusercontent.com/u/95717440?s=200&v=4" width="300" height="100" alt="Figma" />
       </a>
       <br>Defund
     </td>
