@@ -26,7 +26,7 @@
 <table width='100%'>
   <tr>
     <td align="center" width="96">
-      <a href="#debabin-stack">
+      <a href="https://github.com/Alexmed911/Nodes-Setup-Manuals/tree/main/Cyber">
         <img src="https://user-images.githubusercontent.com/79756157/205507528-262d9736-8442-4641-be99-da873335c727.jpg" width="45" height="45" alt="JavaScript" />
       </a>
       <br>Axelar
