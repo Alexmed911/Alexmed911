@@ -30,11 +30,11 @@
       </a>
       <br>Defund
     </td>
-    <td align="center" width="96">
-      <a href="#debabin-stack" >
-        <img src="https://avatars.githubusercontent.com/u/54859940?s=200&v=4" width="45" height="45" alt="Figma" />
+    <td align="center" width="100">
+      <a href="https://github.com/Alexmed911/Nodes-Setup-Manuals/tree/main/OKP4" >
+        <img src="https://avatars.githubusercontent.com/u/91899131?s=200&v=4" width="50" height="50" alt="Figma" />
       </a>
-      <br>Celestia
+      <br>OKP4
     </td>
     <td align="center" width="96">
       <a href="#debabin-stack" >
