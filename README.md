@@ -16,11 +16,11 @@
       <a href="https://github.com/Alexmed911/Nodes-Setup-Manuals/tree/main/Cyber">
         <img src="https://user-images.githubusercontent.com/79756157/205507528-262d9736-8442-4641-be99-da873335c727.jpg" width="45" height="45" alt="JavaScript" />
       </a>
-      <br>Axelar
+      <br>Cyber
     </td>
     <td align="center" width="96">
-      <a href="#debabin-stack" >
-        <img src="https://user-images.githubusercontent.com/79756157/205507530-a2877b8a-6a62-4fbd-aa6f-c217d9a39df8.jpg" width="45" height="45" alt="Figma" />
+      <a href="https://github.com/Alexmed911/Nodes-Setup-Manuals/tree/main/Cyber" >
+        <img src="https://stigga.org/gallery_gen/296367cbf28eebc0c19d1677aa388985.png" width="45" height="45" alt="Figma" />
       </a>
       <br>BlastAPI
     </td>
