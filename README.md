@@ -6,7 +6,7 @@
 
 ## Mainnets: 
 
-## Gravity Bridge, Persistence, Boostrom, Jackal, Nomic, Ki Chain, Bitsong, Rizon, Konstellation, Stride, Sifchain, Crescent
+## <a href="https://github.com/Alexmed911/Nodes-Setup-Manuals">Gravity Bridge</a>, Gravity Bridge, Persistence, Boostrom, Jackal, Nomic, Ki Chain, Bitsong, Rizon, Konstellation, Stride, Sifchain, Crescent
 
 # <a href="https://github.com/Alexmed911/Nodes-Setup-Manuals">👉 🖥 Nodes-Setup-Manuals 🧑‍💻</a>
  
