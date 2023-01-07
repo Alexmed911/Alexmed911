@@ -8,19 +8,6 @@
 
 ## Gravity Bridge, Persistence, Boostrom, Jackal, Nomic, Ki Chain, Bitsong, Rizon, Konstellation, Stride, Sifchain, Crescent
 
-
-### 🖥 Specs:
-
-#### AMD Ryzen 9 5950X 16 Cores
-
-#### 128 GB 
-
-#### 1 Gbit/s 
-
-#### Alerts (Grafana + Prometeus)
-
-#### https://stigga.org/
-
 # <a href="https://github.com/Alexmed911/Nodes-Setup-Manuals">👉 🖥 Nodes-Setup-Manuals 🧑‍💻</a>
  
 <table width='100%'>
