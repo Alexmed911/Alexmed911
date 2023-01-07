@@ -14,15 +14,15 @@
   <tr>
     <td align="center" width="96">
       <a href="https://github.com/Alexmed911/Nodes-Setup-Manuals/tree/main/Cyber">
-        <img src="https://stigga.org/gallery_gen/296367cbf28eebc0c19d1677aa388985.png" width="245" height="245" alt="JavaScript" />
+        <img src="https://stigga.org/gallery_gen/296367cbf28eebc0c19d1677aa388985.png" width="45" height="45" alt="JavaScript" />
       </a>
       <br>Cyber
     </td>
     <td align="center" width="96">
-      <a href="https://github.com/Alexmed911/Nodes-Setup-Manuals/tree/main/Cyber" >
-        <img src="https://stigga.org/gallery_gen/296367cbf28eebc0c19d1677aa388985.png" width="45" height="45" alt="Figma" />
+      <a href="https://github.com/Alexmed911/Nodes-Setup-Manuals/tree/main/Persistence" >
+        <img src="https://stigga.org/gallery_gen/2053b6db04c88c60d28f7004da1306d0.jpeg" width="45" height="45" alt="Figma" />
       </a>
-      <br>BlastAPI
+      <br>Persistence
     </td>
     <td align="center" width="96">
       <a href="#debabin-stack" >
