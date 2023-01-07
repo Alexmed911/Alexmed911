@@ -26,9 +26,9 @@
     </td>
     <td align="center" width="96">
       <a href="#debabin-stack" >
-        <img src="https://avatars.githubusercontent.com/u/89205890?s=200&v=4" width="45" height="45" alt="Figma" />
+        <img src="https://mobile.twitter.com/defund_finance/photo" width="45" height="45" alt="Figma" />
       </a>
-      <br>Bundlr
+      <br>Defund
     </td>
     <td align="center" width="96">
       <a href="#debabin-stack" >
