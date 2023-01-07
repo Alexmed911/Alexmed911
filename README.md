@@ -20,7 +20,7 @@
     </td>
     <td align="center" width="96">
       <a href="https://github.com/Alexmed911/Nodes-Setup-Manuals/tree/main/Persistence" >
-        <img src="https://stigga.org/gallery_gen/2053b6db04c88c60d28f7004da1306d0.jpeg" width="45" height="45" alt="Figma" />
+        <img src="https://stigga.org/gallery_gen/2053b6db04c88c60d28f7004da1306d0.jpeg" width="300" height="100" alt="Figma" />
       </a>
       <br>Persistence
     </td>
