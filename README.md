@@ -14,13 +14,13 @@
   <tr>
     <td align="center" width="200">
       <a href="https://github.com/Alexmed911/Nodes-Setup-Manuals/tree/main/Cyber">
-        <img src="https://stigga.org/gallery_gen/296367cbf28eebc0c19d1677aa388985.png" width="50" height="50" alt="JavaScript" />
+        <img src="https://stigga.org/gallery_gen/296367cbf28eebc0c19d1677aa388985.png" width="150" height="50" alt="JavaScript" />
       </a>
       <br>Cyber
     </td>
     <td align="center" width="200">
       <a href="https://github.com/Alexmed911/Nodes-Setup-Manuals/tree/main/Persistence" >
-        <img src="https://stigga.org/gallery_gen/2053b6db04c88c60d28f7004da1306d0.jpeg" width="50" height="50" alt="Figma" />
+        <img src="https://stigga.org/gallery_gen/2053b6db04c88c60d28f7004da1306d0.jpeg" width="150" height="50" alt="Figma" />
       </a>
       <br>Persistence
     </td>
