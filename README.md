@@ -21,9 +21,7 @@
 
 #### https://stigga.org/
 
-
-<h1 align="left" a href="https://github.com/Alexmed911/Nodes-Setup-Manuals"> 👉 🖥 Nodes-Setup-Manuals</h2>
-
+# <a href="https://github.com/Alexmed911/Nodes-Setup-Manuals">👉 🖥 Nodes-Setup-Manuals 🧑‍💻</a>
  
 <table width='100%'>
   <tr>
