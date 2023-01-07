@@ -72,6 +72,18 @@
         <img src="https://raw.githubusercontent.com/itrocket-team/testnet_guides/main/logos/humans.jpg?s=200&v=4" width="45" height="45" alt="Figma" />
       </a>
       <br>Humans
+    </td>
+    <td align="center" width="200">
+      <a href="" >
+        <img src="https://raw.githubusercontent.com/itrocket-team/testnet_guides/main/logos/humans.jpg?s=200&v=4" width="45" height="45" alt="Figma" />
+      </a>
+      <br>Humans
+    </td> 
+    <td align="center" width="200">
+      <a href="" >
+        <img src="https://raw.githubusercontent.com/itrocket-team/testnet_guides/main/logos/humans.jpg?s=200&v=4" width="45" height="45" alt="Figma" />
+      </a>
+      <br>Humans
     </td> 
    </tr>
 </table>
