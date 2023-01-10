@@ -84,15 +84,15 @@
     </td>
   <td align="center" width="200">
       <a href="" >
-        <img src="https://stigga.org/gallery_gen/d5be14363aea6f963c2ffcc89bd7221d_126x126.png" width="400" height="150"  />
+        <img src="https://stigga.org/gallery_gen/fa1758b8e64ecdf2a08ee025e1a250e5_216x212.png" width="400" height="150"  />
       </a>
-      <br><b>Jakal<b>
+      <br><b>Canto<b>
     </td>
    <td align="center" width="200">
       <a href="" >
-        <img src="https://stigga.org/gallery_gen/d5be14363aea6f963c2ffcc89bd7221d_126x126.png" width="400" height="150"  />
+        <img src="https://stigga.org/gallery_gen/a605dd227d544e80e2878b89e9ecab78_126x126.png" width="400" height="150"  />
       </a>
-      <br><b>Jakal<b>
+      <br><b>Sifchain<b>
     </td>
     <td align="center" width="200">
       <a href="" >
