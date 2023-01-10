@@ -64,7 +64,7 @@
     </td>
      <td align="center" width="200">
       <a href="" >
-        <img src="https://twitter.com/humansdotai/photo" width="400" height="150" alt="Figma" />
+        <img src="https://icodrops.com/wp-content/uploads/2021/11/Humans_logo.jpeg" height="150" alt="Figma" />
       </a>
       <br><b>Humans<b>
     </td> 
