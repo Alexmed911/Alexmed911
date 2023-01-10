@@ -64,7 +64,7 @@
     </td>
      <td align="center" width="200">
       <a href="" >
-        <img src="https://raw.githubusercontent.com/itrocket-team/testnet_guides/main/logos/humans.jpg?s=200&v=4" width="400" height="150" alt="Figma" />
+        <img src="https://twitter.com/humansdotai/photo" width="400" height="150" alt="Figma" />
       </a>
       <br><b>Humans<b>
     </td> 
