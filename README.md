@@ -79,7 +79,7 @@ Konstellation<b>
  <tr>
  <td align="center" width="200">
       <a href="" >
-        <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2FNolus-Protocol&psig=AOvVaw1gRNwbWKqJVnJRluD7sHis&ust=1674223689127000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCLCLjLTn0_wCFQAAAAAdAAAAABAE" width="400" height="150"  />
+        <img src="https://avatars.githubusercontent.com/u/103436687?s=200&v=4" width="400" height="150"  />
       </a>
       <br><b>Nolus Protocol<b>
     </td>
