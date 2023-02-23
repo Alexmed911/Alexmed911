@@ -126,16 +126,16 @@ Konstellation<b>
       <br><b>Cosmos<b>
     </td>
     <td align="center" width="200">
-      <a href="https://github.com/Alexmed911/Nodes-Setup-Manuals/tree/main/Realio%20Network" >
-        <img src="https://mma.prnewswire.com/media/1057810/Realio_Logo.jpg" width="400" height="150"  />
+      <a href="" >
+        <img src="https://pbs.twimg.com/profile_images/1552665904542109698/8279XiU1_400x400.png" width="400" height="150"  />
       </a>
-      <br><b>Realio Network<b>
+      <br><b>Quasar<b>
     </td>
      <td align="center" width="200">
-      <a href="https://github.com/Alexmed911/Nodes-Setup-Manuals/tree/main/C4E" >
-        <img src="https://avatars.githubusercontent.com/u/101329004?s=200&v=4" width="400" height="150"  />
+      <a href="" >
+        <img src="https://uploads-ssl.webflow.com/629a5c78c1d8bfb53958fb1b/62b5c3e17eb0e3930d04ddd8_hero-nebula-logo-svg.svg" width="400" height="150"  />
       </a>
-     <br><b>C4E<b>
+     <br><b>Andromeda<b>
     </td>
    </tr>
 </table>
