@@ -107,10 +107,10 @@ Konstellation<b>
       </a>
       <tr>
  <td align="center" width="200">
-      <a href="https://github.com/Alexmed911/Nodes-Setup-Manuals/tree/main/Nolus%20Protocol" >
-        <img src="https://avatars.githubusercontent.com/u/103436687?s=200&v=4" width="400" height="150"  />
+      <a href="https://github.com/Alexmed911/Nodes-Setup-Manuals/tree/main/Althea" >
+        <img src="https://avatars.githubusercontent.com/u/25123050?s=280&v=4" width="400" height="150"  />
       </a>
-      <br><b>Nolus Protocol<b>
+      <br><b>Althea<b>
     </td>
   <td align="center" width="200">
       <a href="https://github.com/Alexmed911/Nodes-Setup-Manuals/tree/main/Canto" >
