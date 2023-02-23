@@ -120,10 +120,10 @@ Konstellation<b>
       <br><b>Sui<b>
     </td>
    <td align="center" width="200">
-      <a href="https://github.com/Alexmed911/Nodes-Setup-Manuals/tree/main/Shardeum" >
-         <img src="https://avatars.githubusercontent.com/u/98940804?s=200&v=4" width="400" height="150"  />
+      <a href="https://github.com/Alexmed911/Nodes-Setup-Manuals/tree/main/Cosmos" >
+         <img src="https://pbs.twimg.com/profile_images/1572270323105660931/wfrYRGAC_400x400.jpg" width="400" height="150"  />
       </a>
-      <br><b>Shardeum<b>
+      <br><b>Cosmos<b>
     </td>
     <td align="center" width="200">
       <a href="https://github.com/Alexmed911/Nodes-Setup-Manuals/tree/main/Realio%20Network" >
@@ -135,7 +135,7 @@ Konstellation<b>
       <a href="https://github.com/Alexmed911/Nodes-Setup-Manuals/tree/main/C4E" >
         <img src="https://avatars.githubusercontent.com/u/101329004?s=200&v=4" width="400" height="150"  />
       </a>
-     
+     <br><b>C4E<b>
     </td>
    </tr>
 </table>
