@@ -20,7 +20,7 @@
     </td>
     <td align="center" width="200">
       <a href="https://github.com/Alexmed911/Nodes-Setup-Manuals/tree/main/Persistence" >
-        <img src="https://stigga.org/gallery_gen/2053b6db04c88c60d28f7004da1306d0.jpeg" width="300" height="150"  />
+        <img src="https://avatars.githubusercontent.com/u/52166365?s=200&v=4" width="300" height="150"  />
       </a>
       <br><b>Persistence<b>
     </td>
@@ -46,7 +46,7 @@
  <tr>
     <td align="center" width="200">
       <a href="https://github.com/Alexmed911/Nodes-Setup-Manuals/tree/main/Konstellation" >
-        <img src="https://stigga.org/gallery_gen/afc7ef23073ccf82ab4884bdda1ae37a_140x140.png" width="400" height="150"  />
+        <img src="https://avatars.githubusercontent.com/u/47561122?v=4" width="400" height="150"  />
       </a>
       <br><b>
 Konstellation<b>
@@ -71,7 +71,7 @@ Konstellation<b>
     </td> 
       <td align="center" width="200">
       <a href="https://github.com/Alexmed911/Nodes-Setup-Manuals/tree/main/Jakal" >
-        <img src="https://stigga.org/gallery_gen/d5be14363aea6f963c2ffcc89bd7221d_126x126.png" width="400" height="150"  />
+        <img src="https://github.com/JackalLabs/canine-chain/blob/master/banner.png" width="400" height="150"  />
       </a>
       <br><b>Jakal<b>
     </td>
@@ -85,13 +85,13 @@ Konstellation<b>
     </td>
   <td align="center" width="200">
       <a href="https://github.com/Alexmed911/Nodes-Setup-Manuals/tree/main/Canto" >
-        <img src="https://stigga.org/gallery_gen/fa1758b8e64ecdf2a08ee025e1a250e5_216x212.png" width="400" height="150"  />
+        <img src="https://avatars.githubusercontent.com/u/104648009?s=200&v=4" width="400" height="150"  />
       </a>
       <br><b>Canto<b>
     </td>
    <td align="center" width="200">
       <a href="https://github.com/Alexmed911/Nodes-Setup-Manuals/tree/main/Shardeum" >
-         <img src="https://avatars.githubusercontent.com/u/98940804?s=200&v=4" width="400" height="150"  />
+        <img src="https://avatars.githubusercontent.com/u/98940804?s=200&v=4" width="400" height="150"  />
       </a>
       <br><b>Shardeum<b>
     </td>
@@ -105,7 +105,7 @@ Konstellation<b>
       <a href="https://github.com/Alexmed911/Nodes-Setup-Manuals/tree/main/C4E" >
         <img src="https://avatars.githubusercontent.com/u/101329004?s=200&v=4" width="400" height="150"  />
       </a>
-       <br><b>C4E<b>
+      <br><b>C4E<b>
       <tr>
  <td align="center" width="200">
       <a href="https://github.com/Alexmed911/Nodes-Setup-Manuals/tree/main/Althea" >
@@ -140,5 +140,6 @@ Konstellation<b>
    </tr>
 </table>
 <br>
+
 
 
