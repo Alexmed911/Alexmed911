@@ -1,4 +1,4 @@
-# 👽STIGGA👽 POS VALIDATOR IN COSMOS HUB ECOSYSTEM CHAINS  
+# 👽STIGGA👽 POS VALIDATOR 
 
 ![](https://komarev.com/ghpvc/?username=Alexmed911&color=green&style=for-the-badge)
 
