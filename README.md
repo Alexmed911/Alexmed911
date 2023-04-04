@@ -127,7 +127,7 @@ Konstellation<b>
     </td>
     <td align="center" width="200">
       <a href="" >
-        <img src="https://ibb.co/F5JVnL2" width="400" height="150"  />
+        <img src="https://i.ibb.co/v3mYD6p/8279-Xi-U1-400x400.png" width="400" height="150"  />
       </a>
       <br><b>Quasar<b>
     </td>
