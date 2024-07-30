@@ -64,10 +64,10 @@ Konstellation<b>
       <br><b>Lava<b>
     </td>
      <td align="center" width="200">
-      <a href="https://github.com/Alexmed911/Nodes-Setup-Manuals/tree/main/Humans%20Ai" >
-        <img src="https://icodrops.com/wp-content/uploads/2021/11/Humans_logo.jpeg" height="150"  />
+      <a href="https://github.com/Alexmed911/Nodes-Setup-Manuals/tree/main/BlockX" >
+        <img src="https://camo.githubusercontent.com/9c987e59ca676c5c88d95ab6e62d4bcaf6e28ec9c87eb41bbaf00cfd4d1ca1a2/68747470733a2f2f3235333234313236342d66696c65732e676974626f6f6b2e696f2f7e2f66696c65732f76302f622f676974626f6f6b2d782d70726f642e61707073706f742e636f6d2f6f2f737061636573253246586e6d4d593633673338545a4d3275474e62643125324675706c6f616473253246326349354e36437933736f537a67646259693846253246742e706e673f616c743d6d6564696126746f6b656e3d30666166356133352d666366662d343438302d396439382d316364663562616361343439" height="150"  />
       </a>
-      <br><b>Humans<b>
+      <br><b>BlockX<b>
     </td> 
       <td align="center" width="200">
       <a href="https://github.com/Alexmed911/Nodes-Setup-Manuals/tree/main/Jakal" >
