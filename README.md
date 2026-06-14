@@ -50,29 +50,6 @@ since:      2021
 
 ---
 
-## ⛓️ Validator Networks
-
-| Network | Ecosystem | Type | Status |
-|---------|-----------|------|--------|
-| Cosmos Hub | Cosmos | Mainnet | ✅ Active |
-| Osmosis | Cosmos | Mainnet | ✅ Active |
-| Sei Network | Cosmos | Mainnet | ✅ Active |
-| Injective | Cosmos | Mainnet | ✅ Active |
-| Persistence | Cosmos | Mainnet | ✅ Active |
-| Evmos | Cosmos/EVM | Mainnet | ✅ Active |
-| Uptick | Cosmos | Mainnet | ✅ Active |
-| Archway | Cosmos | Mainnet | ✅ Active |
-| Neutron | Cosmos | Mainnet | ✅ Active |
-| dYdX | Cosmos | Mainnet | ✅ Active |
-| Celestia | Modular | Mainnet | ✅ Active |
-| Saga | Cosmos | Mainnet | ✅ Active |
-| Stargaze | Cosmos | Mainnet | ✅ Active |
-| Axelar | Cross-chain | Mainnet | ✅ Active |
-
-> 🔒 **$100,000+ in assets secured** · Multiple sentry nodes · Enterprise-grade security
-
----
-
 ## 🚀 Featured Projects
 
 ### [wc2026mpp.xyz](https://wc2026mpp.xyz) — AI Prediction Engine on Tempo MPP
