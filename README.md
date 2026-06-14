@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=STIGGA&fontSize=80&fontColor=f5c518&animation=fadeIn&fontAlignY=38&desc=Crypto+Infrastructure+%7C+Validator+%7C+On-Chain+Dev&descAlignY=60&descColor=94a3b8" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=200&section=header&text=STIGGA&fontSize=80&fontColor=f5c518&animation=fadeIn&fontAlignY=38&desc=Node.js+%7C+Python+%7C+Crypto+Developer&descAlignY=60&descColor=94a3b8" />
 
-[![Cosmos Validator](https://img.shields.io/badge/Cosmos_SDK-Validator-1B1E36?style=for-the-badge&logo=cosmos&logoColor=white)](https://github.com/Alexmed911)
-[![IBC Relayer](https://img.shields.io/badge/IBC-Relayer-6C35DE?style=for-the-badge)](https://github.com/Alexmed911/ibc-relayer-configs)
-[![On-Chain](https://img.shields.io/badge/On--Chain-Degen-f5c518?style=for-the-badge&logo=ethereum&logoColor=black)](https://github.com/Alexmed911/onchain-scripts)
-[![MPP Service](https://img.shields.io/badge/MPP-wc2026mpp.xyz-22c55e?style=for-the-badge)](https://wc2026mpp.xyz)
+[![Node.js](https://img.shields.io/badge/Node.js-Developer-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/Alexmed911)
+[![Python](https://img.shields.io/badge/Python-Developer-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://github.com/Alexmed911)
+[![Web3](https://img.shields.io/badge/Web3-On--Chain-f5c518?style=for-the-badge&logo=ethereum&logoColor=black)](https://github.com/Alexmed911)
+[![Cosmos](https://img.shields.io/badge/Cosmos_SDK-Validator-6C35DE?style=for-the-badge&logo=cosmos&logoColor=white)](https://github.com/Alexmed911)
 
 </div>
 
@@ -14,17 +14,18 @@
 ## 👾 About
 
 ```yaml
-name:       STIGGA
-role:       Crypto Infrastructure Engineer
-location:   Remote / Web3
-since:      2021
+name:     STIGGA
+role:     Backend & Crypto Developer
+stack:    Node.js · Python · Solidity · Cosmos SDK
+focus:    DeFi tooling · on-chain automation · blockchain infra
+since:    2021
 ```
 
-- 🔐 Running **validator & sentry nodes** on 30+ Mainnet/Testnet networks
-- ⚡ Operating **IBC relayers** across the Cosmos ecosystem
-- 🏗️ Building **MPP payment services** on Tempo blockchain (HTTP 402)
-- 🤖 Automating on-chain ops — staking, governance, claims, swaps
-- 💎 Active DeFi participant: liquidity, governance voting, airdrops
+- ⚙️ Building **backend services** and **APIs** in Node.js and Python
+- 🔗 Writing **on-chain scripts** — staking, swaps, governance, airdrops
+- 🏗️ Developing **DeFi tooling** and **blockchain integrations**
+- 🔐 Running **validator infrastructure** across Cosmos SDK networks
+- ⚡ Operating **IBC relayers** and cross-chain automation
 
 ---
 
@@ -32,41 +33,40 @@ since:      2021
 
 <div align="center">
 
-![Cosmos SDK](https://img.shields.io/badge/Cosmos_SDK-1B1E36?style=flat-square&logo=cosmos&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Ethereum](https://img.shields.io/badge/Ethereum-3C3C3D?style=flat-square&logo=ethereum&logoColor=white)
+![Cosmos SDK](https://img.shields.io/badge/Cosmos_SDK-1B1E36?style=flat-square&logo=cosmos&logoColor=white)
+![Web3.js](https://img.shields.io/badge/Web3.js-F16822?style=flat-square&logo=web3.js&logoColor=white)
+![Hardhat](https://img.shields.io/badge/Hardhat-FFF100?style=flat-square&logo=hardhat&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
-
-### [wc2026mpp.xyz](https://wc2026mpp.xyz) — AI Prediction Engine on Tempo MPP
-> HTTP 402 Machine Payment Protocol service. AI ensemble football predictions for WC2026. Pay $0.02 USDC.e per prediction via Tempo CLI.
-
-```bash
-tempo request "https://wc2026mpp.xyz/api/service?home=BRA&away=ARG"
-```
-
-### [Nodes-Setup-Manuals](https://github.com/Alexmed911/Nodes-Setup-Manuals)
-> Step-by-step installation guides for Cosmos SDK nodes. Covers 20+ networks with binary install, systemd setup, snapshot sync, and monitoring.
+## 🚀 Projects
 
 ### [cosmos-validator-toolkit](https://github.com/Alexmed911/cosmos-validator-toolkit)
-> Scripts for validator monitoring, alerting, and automation. Missed block alerts, auto-restart, uptime tracking.
+> Bash/Python scripts for Cosmos SDK validator ops — missed block alerts, auto-restart, reward claiming, governance watching. Production-tested on 14+ networks.
+
+### [onchain-scripts](https://github.com/Alexmed911/onchain-scripts)
+> On-chain automation for Cosmos and EVM — portfolio snapshots with live prices, airdrop eligibility checker, multi-chain reward claimer, governance voter.
 
 ### [ibc-relayer-configs](https://github.com/Alexmed911/ibc-relayer-configs)
-> IBC relayer channel configurations for Cosmos ecosystem. Ready-to-use paths for Hermes and Go relayer.
+> Production IBC relayer configurations for Hermes and Go Relayer. Active channels across cosmoshub, osmosis, sei, injective, neutron and more.
+
+### [Nodes-Setup-Manuals](https://github.com/Alexmed911/Nodes-Setup-Manuals)
+> Step-by-step node installation guides for 20+ Cosmos SDK networks — binary setup, systemd, snapshot sync, monitoring stack.
 
 ---
 
@@ -87,18 +87,10 @@ tempo request "https://wc2026mpp.xyz/api/service?home=BRA&away=ARG"
 
 ---
 
-## 🌐 On-Chain Activity
-
-- **Cosmos Hub** — [Mintscan](https://www.mintscan.io/cosmos/validators)
-- **Tempo blockchain** — wallet `0x21d012bd...d5a8` · MPP service live on wc2026mpp.xyz
-- **IBC channels** — running relayers between 10+ chain pairs
-
----
-
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f3460,50:16213e,100:1a1a2e&height=100&section=footer" />
 
-*Building permissionless infrastructure · One block at a time*
+*Shipping on-chain tools · One commit at a time*
 
 </div>
